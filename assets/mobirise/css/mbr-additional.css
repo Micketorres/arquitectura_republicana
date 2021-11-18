@@ -2931,61 +2931,6 @@ a {
 .cid-sNM2l4nezr .media-container-row .row-copirayt p {
   width: 100%;
 }
-.cid-sP4AKruTBY {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #1e2020;
-}
-.cid-sP4AKruTBY .number-wrap {
-  color: #ffffff;
-  text-align: center;
-}
-.cid-sP4AKruTBY .number {
-  color: #fabc16;
-}
-.cid-sP4AKruTBY .period {
-  display: block;
-}
-.cid-sP4AKruTBY .dot {
-  display: none;
-}
-@media (max-width: 767px) {
-  .cid-sP4AKruTBY .period {
-    font-size: 0.8rem;
-  }
-}
-.cid-sP4AKruTBY .btn {
-  height: 100%;
-  margin: 0;
-}
-.cid-sP4AKruTBY .mbr-section-btn {
-  margin-bottom: 1.2rem;
-}
-.cid-sP4AKruTBY .icons-menu .soc-item {
-  padding-left: 8px;
-  padding-right: 8px;
-}
-.cid-sP4AKruTBY .icons-menu .soc-item .mbr-iconfont {
-  font-size: 2rem;
-  display: flex;
-  border-radius: 50%;
-  text-align: center;
-  color: #fabc16;
-  border: 2px solid #fabc16;
-  justify-content: center;
-  align-content: center;
-  transition: all 0.3s;
-}
-.cid-sP4AKruTBY .icons-menu .soc-item .mbr-iconfont:before {
-  padding: 0.6rem;
-}
-.cid-sP4AKruTBY .icons-menu .soc-item .mbr-iconfont:hover {
-  background-color: #fabc16;
-  color: #000000;
-}
-.cid-sP4AKruTBY H3 {
-  color: #fabc16;
-}
 .cid-sNLWYGnEQn {
   z-index: 1000;
   width: 100%;
